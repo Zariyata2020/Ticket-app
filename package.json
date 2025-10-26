@@ -70,4 +70,10 @@
     "tw-animate-css": "1.3.3",
     "typescript": "^5"
   }
+  "homepage": "https://Zariyata2020.github.io/Ticket-app",
+"scripts": {
+  "build": "next build && next export",
+  "deploy": "gh-pages -d out"
+}
+
 }
